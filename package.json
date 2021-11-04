@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "cynthia": "index.js"
+    "cynthiateeters": "index.js"
   },
   "dependencies": {
     "clear-any-console": "^1.16.2"
