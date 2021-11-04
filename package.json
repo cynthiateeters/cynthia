@@ -14,5 +14,12 @@
     "Teeters",
     "RVCC",
     "Raritan Valley Community College"
-  ]
+  ],
+  "license": "MIT",
+  "repository": "cynthiateeters/cynthia",
+  "author": {
+    "name": "Cynthia Teeters",
+    "email": "cynthiateeters@gmail.com",
+    "url": "http://cynthiateeters.com"
+  }
 }
