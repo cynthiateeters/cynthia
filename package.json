@@ -2,11 +2,12 @@
   "name": "cynthiateeters",
   "version": "2.1.1",
   "main": "index.js",
-  "description": "Get to know Cynthia via `npx cynthia`",
+  "description": " Get to know Cynthia via `npx cynthia`",
   "bin": {
     "cynthiateeters": "index.js"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
     "cli-welcome": "^2.2.2"
   },
   "keywords": [
