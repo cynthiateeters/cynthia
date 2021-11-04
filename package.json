@@ -2,10 +2,11 @@
   "name": "cynthiateeters",
   "version": "1.1.1",
   "main": "index.js",
+  "description": "Get to know Cynthia via `npx cynthia`",
   "bin": {
     "cynthiateeters": "index.js"
   },
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
   }
 }
