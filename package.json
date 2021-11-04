@@ -8,5 +8,11 @@
   },
   "dependencies": {
     "cli-welcome": "^2.2.2"
-  }
+  },
+  "keywords": [
+    "Cynthia Teeters",
+    "Teeters",
+    "RVCC",
+    "Raritan Valley Community College"
+  ]
 }
