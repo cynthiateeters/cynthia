@@ -20,10 +20,9 @@ welcome({
   clear: true,
 });
 
-console.log(`${chalk.italic(`🎓 Adjunct Assistant Professor - Raritan Valley Community College (she/her)
+console.log(`${chalk.italic(`🎓 Adjunct Associate Professor - Raritan Valley Community College (she/her)
 🏫 I teach web development and JavaScript`)}
 
-${twitter(` Twitter `)} https://twitter.com/cynthiateeters
 ${github(` Github  `)} https://github.com/cynthiateeters
-${website(` Website `)} https://cynthiateeters.com\n
+\n
 `);

@@ -1,6 +1,6 @@
 {
   "name": "cynthiateeters",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "main": "index.js",
   "description": " Get to know Cynthia via `npx cynthia`",
   "bin": {
